@@ -32,7 +32,7 @@ ask me to do something for you i will probably do it and drop everything im doin
 <div align="center">
 ## hmu if u want
 <a href="https://linkedin.com/in/abdoachhoubi" target="_blank">
-<img alt="Discord" src="https://img.shields.io/discord/:serverId">
+<img alt="Discord" src="https://img.shields.io/discord/968445278246035496">
 </a>
 <a href="https://twitter.com/abdo_achhoubi" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
