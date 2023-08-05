@@ -1,4 +1,4 @@
-[Discord]([URL](https://discord.com/users/743588904187330590))
+[Discord](https://discord.com/users/743588904187330590)
 <div align="center">
 <h2> faked <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 <br />
