@@ -1,4 +1,1 @@
--- // Minty :) \\ --
-
-Discord: Minnty#3954
-V3RM: 
+# fake - not real 0-0
