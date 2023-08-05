@@ -1,3 +1,4 @@
+[Discord]([URL](https://discord.com/users/743588904187330590))
 <div align="center">
 <h2> faked <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 <br />
@@ -32,7 +33,6 @@ Ask me to do something for you, and I will probably do it and drop everything I'
 
 <div align="center">
 ## hmu if u want
-[Discord]([URL](https://discord.com/users/743588904187330590))
 <br />
 <br />
 <br />
