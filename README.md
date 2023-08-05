@@ -2,7 +2,7 @@
 <h2> faked <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 <br />
 
-i code in lua, js, python i have a intermediate understanding in both of them
+i code in lua, js, python i have a intermediate understanding in all of them
 <br />
 
 i leave alot of projects unfinished then start new ones :)
@@ -31,7 +31,7 @@ ask me to do something for you i will probably do it and drop everything im doin
 
 <div align="center">
 ## hmu if u want
-<a href="https://linkedin.com/in/abdoachhoubi" target="_blank">
+<a href="https://discord.com/users/743588904187330590" target="_blank">
 <img alt="Discord" src="https://img.shields.io/discord/968445278246035496">
 </a>
 <a href="https://twitter.com/abdo_achhoubi" target="_blank">
