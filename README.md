@@ -32,10 +32,11 @@ Ask me to do something for you, and I will probably do it and drop everything I'
 
 <div align="center">
 ## hmu if u want
-[![Discord](https://img.shields.io/discord/968445278246035496)](https://discord.com/users/743588904187330590)
+[![Discord](discord)](https://discord.com/users/743588904187330590)
+
 [![Twitter](https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abdo_achhoubi)
+
 [![Instagram](https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abdo.achhoubi)
-[![Hashnode](https://img.shields.io/badge/hashnode-%2300acee.svg?color=2962FF&style=for-the-badge&logo=hashnode&logoColor=white)](https://achhoubiplus.hashnode.dev)
 <br />
 <br />
 <br />
