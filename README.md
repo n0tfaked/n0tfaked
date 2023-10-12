@@ -15,7 +15,6 @@ I code when I don't feel like doing something intended using APIs, cheats, etc.
 <br />
 
 I probably won't have many projects open.<br />
-Ask me to do something for you, and I will probably do it and drop everything I'm doing or leave you on delivered.
 <br />
 <br />
 
